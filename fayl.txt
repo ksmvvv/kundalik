@@ -1,1 +1,4 @@
 Salom! Bu mening birinchi Git faylim.
+Men Git stash organayapman!
+Salom! Bu mening birinchi Git faylim.
+Men Git stash organayapman!
