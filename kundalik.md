@@ -1,4 +1,6 @@
 салом ман боситхонман ва ман 14га кирганман иан ойлеман келажагим хали олдинда
 
-\# Kundalik - MAIN versiyasi
+\# Kundalik - ASOSIY VERSIYA
+
+
 
