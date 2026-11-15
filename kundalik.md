@@ -4,3 +4,5 @@
 
 
 
+\# Kundalik - SINOVNING YANGI VERSIYASI
+
