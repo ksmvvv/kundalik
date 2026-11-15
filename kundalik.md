@@ -2,3 +2,5 @@
 
 \# Kundalik - MAIN versiyasi
 
+\# Kundalik - SINOV versiyasi
+
